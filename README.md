@@ -1,6 +1,6 @@
 # Proyect_sprint_7
 App web
 
-En esta aplicacion se podran observar dos botones:
--Uno que al presionarlo mostrara un histograma para el conjunto de datos de anuncios de venta de coches
--Otro que al hacer click construye un gráfico de dispersión
+Esta es una aplicacion con la cual podremos observar datos acerca de ventas de autos, en ella encontaremos una casilla la cual al clickearla nos mostrara un boton para generar un histograma. Tambien podra observarse un boton para generar un grafico de dispersion.
+
+URL de aplicación en Render : https://proyect-sprint-7.onrender.com/
